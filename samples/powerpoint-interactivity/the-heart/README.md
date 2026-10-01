@@ -12,8 +12,11 @@
 
 [Summarize what this sample creates, what it demonstrates, and how Prompt A differs from Prompt B.]
 
-## Prompt A
+## Prompt 
 
+<!-- Add a more detailed prompt with explicit visual and behavioral guidance. -->
+
+```text
 Create an interactive, full-bleed slide: a draggable outside/inside anatomical reveal of a human heart.
 
 Imagery (AI-generated medical visualization, not vector art): a highly realistic 3D human heart, isolated with transparency, viewed slightly from the front so the major vessels and overall shape are clearly visible; and a subtle dark clinical background with soft depth and no other subject.
@@ -93,13 +96,6 @@ Keep the total payload as small as practical while retaining enough anatomical d
 Static preview: create a real rendered preview of the finished visual, with the divider positioned approximately 50% across the heart so the viewer immediately sees half external anatomy and half internal anatomy.
 
 Do not use a blank placeholder.
-
-## Prompt B
-
-<!-- Add a more detailed prompt with explicit visual and behavioral guidance. -->
-
-```text
-[Add Prompt B here.]
 ```
 
 ## Use cases
