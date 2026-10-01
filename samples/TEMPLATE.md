@@ -1,6 +1,6 @@
-# The Heart
+# [Sample title]
 
-<!-- Add a preview image or animated demo, for example: ![The Heart demo](./assets/demo.gif) -->
+<!-- Add a preview image or animated demo, for example: ![Sample demo](./assets/demo.gif) -->
 
 ## Video walkthrough
 
