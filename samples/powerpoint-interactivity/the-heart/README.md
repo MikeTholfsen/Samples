@@ -1,35 +1,72 @@
-# The Heart
+Create an interactive, full-bleed slide featuring a **draggable external/internal anatomical reveal of a human heart**.
 
-<!-- Add a preview image or demo link here when available. -->
+## Core Visual
 
-[Add a short description of what this sample creates and how it works.]
+Use **AI-generated medical visualization**, not vector art.
 
-Use the prompt below to create the sample in Copilot in PowerPoint.
+Create a highly realistic 3D human heart:
 
-```
-[Add the prompt for "The Heart" here.]
-```
+- Isolated with transparency
+- Viewed slightly from the front
+- Major vessels and overall shape clearly visible
+- Photorealistic anatomical detail
+- Natural anatomical coloring
+- Soft studio-style lighting that clearly reveals three-dimensional form
 
-## Use cases
+Place the heart prominently in the center of the slide.
 
-- [Describe a presentation or learning scenario for this sample.]
+Use a subtle, dark clinical background with soft depth and no competing subjects.
 
-## How to use
+The composition should be **edge-to-edge with no margins**.
 
-1. Open Copilot in PowerPoint.
-2. Start an interactive slide creation request.
-3. Copy the prompt above and submit it to Copilot.
-4. Review the generated slide and test its interactions.
+---
 
-## Requirements
+## Interactive Reveal
 
-- Copilot in PowerPoint with interactive slide creation available.
-- [List any additional requirements, if applicable.]
+Add a single vertical divider with a small circular drag handle.
 
-## Version history
+The user must be able to drag the divider freely left and right to reveal two perfectly synchronized views of the **exact same heart**.
 
-| Version | Date | Comments |
-| ------- | ---- | -------- |
-| 1.0 | TBD | Initial sample scaffold. |
+### Left Side — External Anatomy
 
+Show the complete photorealistic exterior of the heart, including:
+
+- Major vessels
+- Surface anatomy and texture
+- Coronary vessels
+- Natural anatomical coloring
+
+### Right Side — Internal Anatomy
+
+Show the same heart with:
+
+- Identical size
+- Identical position
+- Identical rotation
+- Identical lighting
+- Identical animation timing
+
+The only difference should be that the outer wall has been cleanly removed to reveal the internal anatomy.
+
+Clearly depict:
+
+- Left atrium
+- Right atrium
+- Left ventricle
+- Right ventricle
+- Interventricular septum
+- Mitral valve
+- Tricuspid valve
+- Aortic valve
+- Pulmonary valve
+- Chordae tendineae
+- Major vessel openings
+
+The cutaway should feel like a true anatomical section of the same heart, **not a separate illustration**.
+
+---
+
+## Divider Behavior
+
+The draggable
 This sample is provided as-is, without warranty of any kind.
