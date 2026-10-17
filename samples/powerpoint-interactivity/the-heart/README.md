@@ -6,7 +6,7 @@
 
 <!-- Link a video thumbnail to the walkthrough, for example: [![Watch the video walkthrough](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID) -->
 
-[Add a link to the video walkthrough.]
+[Watch the video walkthrough](https://youtu.be/1darAoUkOqY?si=2WKjE1skbSK7Eb2U&t=187)
 
 ## Summary
 
