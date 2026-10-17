@@ -10,7 +10,7 @@
 
 ## Summary
 
-[Summarize what this sample creates, what it demonstrates, and how Prompt A differs from Prompt B.]
+This is a prompt for Copilot in PowerPoint to create an interactive slide that allows you to explore the outside and inside of the human heart with a divider mechanism in PowerPoint.
 
 ## Prompt 
 
